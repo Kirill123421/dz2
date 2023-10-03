@@ -1,0 +1,7 @@
+.svg_icon{
+    transition: background-color 0.3s, color 0.3s;
+}
+.svg_icon:hover {
+    background-color: #3498db;
+    color: blue;
+  }
